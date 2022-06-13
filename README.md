@@ -8,7 +8,7 @@
     student & system programmer from Russia.</h3>
 </div>
  
- <img align="right" width="380" height="auto" src="./resources/img/geek.gif"/>
+ <img align="right" width="380" height="auto" src="./resources/img/avento.gif"/>
 
 <div align="left">
   <samp>
