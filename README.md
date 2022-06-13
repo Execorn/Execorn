@@ -1,7 +1,11 @@
 <div align="center">
   <img width="200" height="auto" src="./resources/img/materialHacker.png"/>
   <h1>Hi<img width="30" src="./resources/img/waving.gif">, I'm Biryukov Nikita</h1>
-  <h3>A passionate [MIPT](https://mipt.ru/english/) student & system programmer from Russia.</h3>
+  <h3>A passionate MIPT 
+    <a href="https://mipt.ru/english/">
+      MIPT
+    </a> 
+    student & system programmer from Russia.</h3>
 </div>
  
  <img align="right" width="380" height="auto" src="./resources/img/geek.gif"/>
