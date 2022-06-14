@@ -169,6 +169,9 @@
     <a  href="https://t.me/execorn" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="execorn"/>
     </a>
+    <a href="https://vk.com/execorn" target="_blank">
+      <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="execorn"/>
+    </a>
     <a href="mailto:n.biryukov.04@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="execorn"/>
     </a>
