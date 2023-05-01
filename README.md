@@ -24,8 +24,7 @@
 
 - 💬  Ask me about **World literature & Anime & Meaning of life 👻**
 
-- ⚡  Fun question: **NASA still uses programs from the 70s in their spacecraft. So why does everyone hate legacy code so much?**
--    UPD: ok, after checking OpenGL legacy I finally got it.
+- ⚡  Fun question: **NASA still uses programs from the 70s in their spacecraft. So why does everyone hate legacy code so much?** UPD: ok, after checking OpenGL legacy I finally got it.
     
 <p>&nbsp;</p>
     
