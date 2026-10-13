@@ -41,7 +41,7 @@ A closed-addressing hash table in C aligned to hardware cache lines. Uses 256-bi
 An SDDM theme for Arch Linux with video backdrops, packaged on the AUR. Includes an in-greeter settings drawer (`Alt+S`) so you never have to edit config files by hand, plus automatic 4K &rarr; 2K downscaling on smaller screens.
 
 #### [HyprGlyph](https://github.com/Execorn/HyprGlyph) &mdash; Hyprland keybinding parser
-Instead of maintaining duplicate cheatsheet tables that go stale every time you edit your window manager config, this parses bindings directly from your Hyprland files into structured JSON for desktop overlay drawers. Written in Python, 67 passed tests.
+Parses bindings directly from Hyprland configuration files into structured JSON for desktop overlay drawers, avoiding manual cheatsheet tables that rot when window manager rules change. Written in Python, 72 passed tests.
 
 #### [Execore_Language](https://github.com/Execorn/Execore_Language) &mdash; Statically typed language engine in ISO C++23
 An interpreted language runtime combining Python-style indentation syntax with explicit static types (`int`, `float`, `char`, `str`, `list`), first-class lexical closures, and runtime method dispatch. Engineered for cache locality and zero-allocation execution paths: tokens stream through Structure-of-Arrays buffers (`TokenBufferSoA`) for 100% L1 cache density, AST nodes allocate from PMR monotonic memory arenas (`std::pmr`), and errors propagate via C++23 `std::expected` monadic chaining. Tagged `std::variant` primitives evaluate without heap hits. Passes a 5-tier test matrix (unit, BDD, 2,000 property tests, LibFuzzer, mutation testing) and achieves >100 MiB/s lexer throughput (~4.8M tokens/s) under PGO and ThinLTO.
